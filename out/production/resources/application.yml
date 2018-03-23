@@ -31,6 +31,6 @@ server:
     aop:
       proxy-target-class: true
 
-#=================constant=====================
+#=================com.IFox.hh.constant=====================
 test:
   name: 胡红

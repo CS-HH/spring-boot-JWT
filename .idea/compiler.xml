@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="spring-boot-com.IFox.hh.jwt_main" target="1.8" />
+      <module name="spring-boot-com.IFox.hh.jwt_test" target="1.8" />
       <module name="spring-boot-jwt_main" target="1.8" />
       <module name="spring-boot-jwt_test" target="1.8" />
     </bytecodeTargetLevel>
